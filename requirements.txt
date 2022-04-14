@@ -1,0 +1,7 @@
+fitz==0.0.1.dev2
+gensim==4.1.2
+pdf2image==1.16.0
+Pillow==9.1.0
+PyMuPDF==1.19.4
+pytesseract==0.3.9
+spacy==3.2.3
